@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body{
+background:#642873;
+background:-webkit-linear-gradient(to left,#C6426E,#642B73);
+background:linear-gradient(to right,#C6426E,#642B73);}
+form{padding-left:500px;size:100px;}
+
+</style>
+</head>
+<body>
+<div>
+<form >
+<table border="1">
+<tr>
+<th colspan="2">TOURS AND TRAVELS</th>
+</tr>
+<tr>
+<td> enter your first name</td>
+<td>
+<input type="text" name="t1" /></td>
+</tr>
+<tr>
+<td> enter your last name</td>
+<td>
+<input type="text" name="t2"/></td>
+</tr>
+<tr>
+<td>D.O.B</td>
+<td>
+<input type="text" name="t9" placeholder="dd-mm-yyyy"/>
+</td><br/>
+</tr>
+<tr>
+<td>E-mail address</td>
+<td>
+<input type="text" name="t3"/></td>
+</tr>
+<tr>
+<td>state</td>
+<td>
+<select>
+<option>uttar pradesh</option>
+<option>uttrakhand</option>
+<option>maharasthra</option>
+</select>
+</td>
+<tr>
+<td>contact</td>
+<td>
+<input type="text" name="t4"/></td>
+</tr>
+<tr>
+<td>alternate contact</td>
+<td>
+<input type="text" name="t5"/></td>
+</tr>
+<tr>
+<td>gender</td>
+<td>
+<input type="radio" name="t8" value="a"/>male
+<input type="radio" name="t9" value="b"/>female</td><br/>
+</tr>
+<tr>
+<td>marital status</td>
+<td>
+<input type="radio" name="t11" value="c"/>married
+<input type="radio" name="t12" value="d"/>unmarried</td><br/>
+</tr>
+<tr>
+<td>I.D PROOF</td>
+<td>
+id<select>
+<option>adhar card</option>
+<option>driving licence</option>
+<option>pan card</option>
+<option>voter id card</option>
+<option>passport</option>
+</select></td>
+<tr>
+<td>payment type</td>
+<td>
+<input type="radio" name="t13" value="e"/>debit card
+<input type="radio" name="t14" value="f"/>credit card
+<input type="radio" name="t15" value="g"/>upi
+<input type="radio" name="t16" value="h"/>cash</td><br/>
+</tr>
+<tr>
+<form action="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiBwb3G4O7yAhXCHCsKHfpmD68YABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2YzU3XDfrsJWO2ux2G1p_YieN2xRlgfXpohR5BLF1vEDgksp7x0hDIBVr7utwIkt7JfSZIsc0PlNpz-RJAAE&sig=AOD64_3uhorhYYREDTal9x4p6gwdy6CuTA&q&nis=1&adurl&ved=2ahUKEwjZkLLG4O7yAhVj5nMBHSGxBdYQ0Qx6BAgDEAE">
+<td colspan="2">
+<input type="reset" name="t6" value="RESET"/>
+<input type="submit" name="t7" value="SUBMIT"/>
+</td>
+</form>
+
+</tr><br/>
+</form>
+</div>
+</body>
+</html.
